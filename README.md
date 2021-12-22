@@ -47,6 +47,6 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 
-![](https://www.canva.com/design/DAEzRindqSU/X8k7kS5VIAzJduQAuHjvAg/view?utm_content=DAEzRindqSU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![](https://drive.google.com/file/d/1thNZyUFSJzvcteY3je2MIXfOlO3KpTou/view?usp=sharing)
 
 
