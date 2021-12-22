@@ -47,6 +47,6 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 
-![](https://media.gcflearnfree.org/content/5e31ca08bc7eff08e4063776_01_29_2020/ProgrammingIllustration.png)
+![](https://previews.123rf.com/images/niroworld/niroworld1508/niroworld150800030/44081258-merci-de-signer-et-de-lettres-sur-le-marketing-de-clavier-d-ordinateur-et-les-clients-gr%C3%A2ce-donnant-.jpg?fj=1)
 
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://previews.123rf.com/images/niroworld/niroworld1508/niroworld150800030/44081258-merci-de-signer-et-de-lettres-sur-le-marketing-de-clavier-d-ordinateur-et-les-clients-gr%C3%A2ce-donnant-.jpg?fj=1"/>
+
