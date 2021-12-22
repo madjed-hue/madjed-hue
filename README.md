@@ -47,6 +47,6 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 
-![](https://previews.123rf.com/images/niroworld/niroworld1508/niroworld150800030/44081258-merci-de-signer-et-de-lettres-sur-le-marketing-de-clavier-d-ordinateur-et-les-clients-gr%C3%A2ce-donnant-.jpg?fj=1)
+![](https://www.canva.com/design/DAEzRindqSU/X8k7kS5VIAzJduQAuHjvAg/view?utm_content=DAEzRindqSU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 
