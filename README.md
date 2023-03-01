@@ -10,7 +10,7 @@
 
 🌱> I’m currently learning What i Need
 
-🎯> 2022 Goals: React Native, TypeScript, NextJS
+🎯> 2023: Goals: React Native
 
 ⚡> Fun Fact: I want to learn everything
 
