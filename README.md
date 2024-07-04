@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fateh</h1>
 <h3 align="center">Full-stack developer crafting stunning websites, robust apps, and problem-solving pro. Strong communicator & collaborator.</h3>
 
-- 🔭 I’m currently working on **CodeOverflow**
+- 🔭 I’m currently working on **Basikon**
 
-- 🌱 I’m currently learning **Microservice Server**
-
-- 👯 I’m looking to collaborate on [PROJECTMATE](https://www.projectmate.net/)
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-next1.vercel.app/](https://portfolio-next1.vercel.app/)
 
